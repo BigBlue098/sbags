@@ -10,3 +10,6 @@ employee = Employee("Mark")
 employeeTwo = Employee("Evan")
 employeeTwo.displayEmployeeDetails()
 employee.displayEmployeeDetails()
+#adding comments for no reason
+#adding comments for no reason
+employeeThree = Employee()
